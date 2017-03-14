@@ -24,6 +24,7 @@ setup(
     author="Dan Hallgren",
     author_email="dan.hallgren@gmail.com",
     license="MIT",
+    url="https://github.com/dahallgren/scheddl",
     packages=[],
     classifiers=(
         # 'Development Status :: 1 - Planning',
