@@ -25,7 +25,7 @@ setup(
     author_email="dan.hallgren@gmail.com",
     license="MIT",
     url="https://github.com/dahallgren/scheddl",
-    packages=[],
+    platforms=['Linux>=3.14'],
     classifiers=(
         # 'Development Status :: 1 - Planning',
         # 'Development Status :: 2 - Pre-Alpha',
